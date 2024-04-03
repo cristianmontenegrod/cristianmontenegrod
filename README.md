@@ -1,4 +1,4 @@
-# Cristian Montenegro Díaz
+# Cristian Montenegro
 ### Full-Stack Web Developer
 
 ## Habilidades
